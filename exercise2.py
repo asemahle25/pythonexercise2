@@ -1,1 +1,1 @@
-print("My name is Asemahle, nzokwenza exercise 2")
+print("Intsha Kraca")
